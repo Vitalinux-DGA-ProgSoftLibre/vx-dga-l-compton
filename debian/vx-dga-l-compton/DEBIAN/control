@@ -1,0 +1,11 @@
+Package: vx-dga-l-compton
+Version: 1.0-1
+Architecture: all
+Maintainer: Arturo Martín <amartinromero@gmail.com>
+Installed-Size: 41
+Pre-Depends: compton
+Section: utils
+Priority: extra
+Homepage: http://migasfree.org
+Description: Activa compton al iniciar sesión
+ Activa compton al iniciar sesión para todos los usuarios

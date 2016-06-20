@@ -1,0 +1,7 @@
+vx-dga-l-compton (1.0-1) unstable; urgency=low
+
+  * Garantiza que compton se inicie automáticamente al iniciar sesión
+
+ -- Arturo Martín <amartinromero@gmail.com>  Mon, 25 Jan 2016 07:45:06 +0200
+
+

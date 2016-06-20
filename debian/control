@@ -1,0 +1,14 @@
+Source: vx-dga-l-compton
+Section: utils
+Priority: extra
+Maintainer: Arturo Martín <amartinromero@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://migasfree.org
+
+Package: vx-dga-l-compton
+Architecture: all
+Pre-Depends: compton
+Depends: ${misc:Depends}
+Description: Activa compton al iniciar sesión
+ Activa compton al iniciar sesión para todos los usuarios
