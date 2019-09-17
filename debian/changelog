@@ -1,3 +1,9 @@
+vx-dga-l-compton (1.0-2) unstable; urgency=low
+
+  * Clean compton .desktop file
+
+ -- Ignacio Sancho <sannacho@gmail.com>  Wed, 5 Dec 2018 07:45:06 +0200
+
 vx-dga-l-compton (1.0-1) unstable; urgency=low
 
   * Garantiza que compton se inicie automáticamente al iniciar sesión

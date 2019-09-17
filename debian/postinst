@@ -20,7 +20,8 @@ set -e
 
 case "$1" in
     configure)
-
+		DESKTOPFILE="/usr/share/applications/compton.desktop"
+		[ -f $DESKTOPFILE ] && rm -f $DESKTOPFILE
 	;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
